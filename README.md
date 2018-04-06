@@ -1,6 +1,7 @@
 # Counter - React-Native
 
 The application increment, decrement and reset number. This simple app use redux pattern.
+![Aplicação](https://github.com/rodolfopeixoto/redux-react-native/blob/master/gif/screen.gif?raw=true)
 
 App example: 
 
